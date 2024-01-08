@@ -1,3 +1,6 @@
+// https://www.interviewbit.com/problems/even-product/
+
+
 int Solution::solve(vector<int> &A) {
     int x=1;
     for(int i=1;i<=A.size();i++){
