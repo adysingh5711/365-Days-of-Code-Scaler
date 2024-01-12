@@ -1,4 +1,4 @@
-https://www.interviewbit.com/problems/smaller-or-equal-elements/discussion/
+// https://www.interviewbit.com/problems/smaller-or-equal-elements/discussion/
 
 
 int Solution::solve(vector<int> &A, int B) {
