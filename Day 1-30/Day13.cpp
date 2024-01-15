@@ -1,5 +1,4 @@
-// https://www.interviewbit.com/problems/clear-the-array/discussion/p/easy-c-approach-pattern/428482/2419/
-
+// https://www.interviewbit.com/problems/clear-the-array/
 
 int Solution::solve(vector<int> &A) {
     map<int,int> deletesub;
