@@ -1,5 +1,4 @@
-// https://www.interviewbit.com/problems/find-variance/discussion/p/easy-c-soln-pop-back/451674/2593/
-
+// https://www.interviewbit.com/problems/find-variance/
 
 string Solution::solve(vector<int> &a) {
     int n=a.size();
